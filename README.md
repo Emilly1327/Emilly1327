@@ -1,4 +1,12 @@
-
+### Ola sou a Emilly , tenho 17 anos , gosto muito de carros , queria Trabalhar nesta area , como: pilota de drift ou piloto de formula 1
+### Atualmente estou envolvoida no jornal da escola . 
+![Jornal]( https://th.bing.com/th/id/R.cd57d5839a9f8306286db546f6d6f9d1?rik=i5be9K7ydhGZaQ&riu=http%3a%2f%2fwww.n3w5.com.br%2fwp-content%2fuploads%2f2017%2f02%2fManchetes.jpg&ehk=ZKIPuj%2bgBQfrWz232mo281w1h7GJb95EI%2bxZoOq7fJ8%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1)
+# Habilidades e tecnologias 
+### 1.HTML
+### 2.CSS
+### 3.JavaScript
+### 4.Canva
+### 5.Power Point
 
 <!--
 **Emilly1327/Emilly1327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
